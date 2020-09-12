@@ -1299,11 +1299,11 @@
         <sys_created_on>2020-09-08 07:38:51</sys_created_on>
         <sys_id>78e131bedb4750106d5c58b3ca961920</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Table Name</sys_name>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_64e131bedb4750106d5c58b3ca96190a_table_name_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-09-08 07:38:51</sys_updated_on>
         <url/>
@@ -1322,11 +1322,11 @@
         <sys_created_on>2020-09-08 07:38:51</sys_created_on>
         <sys_id>bce131bedb4750106d5c58b3ca96191a</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Record</sys_name>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_64e131bedb4750106d5c58b3ca96190a_current_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-09-08 07:38:51</sys_updated_on>
         <url/>
