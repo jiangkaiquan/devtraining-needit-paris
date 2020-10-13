@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="asmt_metric">
+    <asmt_metric action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <add_info_label>追加情報</add_info_label>
+        <allow_add_info>false</allow_add_info>
+        <allow_not_applicable>false</allow_not_applicable>
+        <auto_gen>false</auto_gen>
+        <category/>
+        <cond_question>always</cond_question>
+        <condition/>
+        <correct_answer/>
+        <correct_answer_checkbox/>
+        <correct_answer_choice/>
+        <correct_answer_template/>
+        <correct_answer_yesno/>
+        <datatype>choice</datatype>
+        <default_value_field/>
+        <depends_on/>
+        <description/>
+        <details/>
+        <displayed_when/>
+        <displayed_when_checkbox/>
+        <displayed_when_template/>
+        <displayed_when_yesno/>
+        <duration/>
+        <field_validation/>
+        <mandatory>false</mandatory>
+        <max>0</max>
+        <max_weight/>
+        <method>assessment</method>
+        <metric_type/>
+        <min>0</min>
+        <name>新規 Choice</name>
+        <order>100</order>
+        <plugin/>
+        <question>新規 Choice</question>
+        <randomize_answers>true</randomize_answers>
+        <read_only>false</read_only>
+        <reference_table/>
+        <scale>low</scale>
+        <scored>false</scored>
+        <script><![CDATA[// The following variables are available:  // - primary: contains the sys_id of the assessable object to be evaluated  // - string_result: the script sets the display string value for this metric to this variable  // - actual_result: the script sets the actual value for this metric to this variable  // - scaled_result: the script sets the scaled value (used in calculations) for this metric to this variable  //  // For example: // var gr = new GlideRecord('cmdb_ci'); // gr.addQuery('manufacturer', primary); // gr.query(); // actual_result = gr.getRowCount(); // string_result = actual_result + ''; // if (actual_result &gt; 100) scaled_result = 5; // else scaled_result = 1;]]></script>
+        <source_field/>
+        <string_option>wide</string_option>
+        <sys_class_name>asmt_metric</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-30 01:41:06</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3af2b579db2390106d5c58b3ca9619fc</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>新規 Choice</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>asmt_metric_3af2b579db2390106d5c58b3ca9619fc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-30 07:54:23</sys_updated_on>
+        <template/>
+        <weight>10</weight>
+    </asmt_metric>
+    <sys_translated_text action="delete_multiple" query="documentkey=3af2b579db2390106d5c58b3ca9619fc"/>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>3af2b579db2390106d5c58b3ca9619fc</documentkey>
+        <fieldname>add_info_label</fieldname>
+        <language>ja</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-30 01:41:06</sys_created_on>
+        <sys_id>bef2f579db2390106d5c58b3ca96194b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-30 01:41:06</sys_updated_on>
+        <tablename>asmt_metric</tablename>
+        <value>追加情報</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>3af2b579db2390106d5c58b3ca9619fc</documentkey>
+        <fieldname>description</fieldname>
+        <language>ja</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-30 01:41:06</sys_created_on>
+        <sys_id>36f2f579db2390106d5c58b3ca96194e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-30 01:41:06</sys_updated_on>
+        <tablename>asmt_metric</tablename>
+        <value/>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>3af2b579db2390106d5c58b3ca9619fc</documentkey>
+        <fieldname>details</fieldname>
+        <language>ja</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-30 01:41:06</sys_created_on>
+        <sys_id>32f2f579db2390106d5c58b3ca96194a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-30 01:41:06</sys_updated_on>
+        <tablename>asmt_metric</tablename>
+        <value/>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>3af2b579db2390106d5c58b3ca9619fc</documentkey>
+        <fieldname>question</fieldname>
+        <language>ja</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-30 01:41:06</sys_created_on>
+        <sys_id>7ef2f579db2390106d5c58b3ca961950</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-30 01:41:06</sys_updated_on>
+        <tablename>asmt_metric</tablename>
+        <value>新規 Choice</value>
+    </sys_translated_text>
+</record_update>
